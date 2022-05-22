@@ -25,6 +25,7 @@
 - I can review the clients.
 
 ## :world_map: User Journey :
+When the user opens the app, he can see the news offers and can see all chefs, and then he can go to the hiring page by clicking on the button hire a chef which consists of a form to enter all details about the hiring process, and after submitting the form he will get a choice to pay personally or online and after submitting he will receive a confirmation email which containing the cooking equipment and ingredients required, type of food e.g: Indian, American ...etc, link to the guest invitation, chef arrival and departure time, chef preferences e.g: female or male.
 
 
 ## : User flow chart :
